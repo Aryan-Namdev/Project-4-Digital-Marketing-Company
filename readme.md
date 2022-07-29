@@ -11,7 +11,7 @@
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 
 * ## Link for netlify:
-    [Law Company site](https://law-company-project.netlify.app/)
+    [Digital Marketing Company Site](https://digital-marketing-company.netlify.app/)
 
 
  * ## Overview
